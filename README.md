@@ -14,7 +14,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![k4-nev](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=blue-green)
+![k4-nev](https://github-readme-stats.vercel.app/api/top-langs/?username=k4-nev&theme=blue-green)
 
 ## Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LinadVena)
