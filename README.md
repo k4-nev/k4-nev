@@ -3,8 +3,9 @@
 ![KANEV DANIIL GIF](https://media.giphy.com/media/xaeEEUHERKqnRNSC6V/giphy.gif)
 
 ## Обо мне
-Я новичок в разработке, обучаюсь самостоятельно чуть меньше года.<br>
-Сейчас сосредоточен на изучении React и совершенствовании своих навыков.
+Привет! Меня зовут Даниил Канев, мне 27 лет, и я начинающий веб-разработчик.🫡<br>
+Увлечен созданием красивых и функциональных веб-приложений и немножко созданием музыки.🎧<br>
+Сейчас сосредоточен на изучении React и TypeScript.📖<br>
 
 ## Навыки
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -17,5 +18,6 @@
 ![k4-nev](https://github-readme-stats.vercel.app/api/top-langs/?username=k4-nev&theme=blue-green)
 
 ## Контакты
+Если у вас есть вопросы, предложения или вы хотите просто поздороваться, не стесняйтесь связаться со мной:<br><br>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LinadVena)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k4-nev@yandex.ru)
